@@ -1,4 +1,4 @@
-![Garfield gif](https://media.tenor.com/yQ6QlIyJf-EAAAAM/cats-computer.gif)
+![Garfield gif](https://s7.ezgif.com/tmp/ezgif-7f6a64eb317d8c.gif)
 
 <h1 align="center">Hi 👋, I'm 🚀 Dainius Rainys</h1>
 <h3 align="center">Networking Engineer & Web Developer 💻 🌍</h3>
