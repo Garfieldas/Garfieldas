@@ -1,4 +1,4 @@
-![Garfield gif](https://s7.ezgif.com/tmp/ezgif-7417cc45172df0.gif)
+![Garfield gif](https://i.ibb.co/YBm3L8DY/ezgif-74dad70fa1efa0.gif)
 <h1 align="center">Hi 👋, I'm 🚀 Dainius Rainys</h1>
 <h3 align="center">Networking Engineer & Web Developer 💻 🌍</h3>
 
